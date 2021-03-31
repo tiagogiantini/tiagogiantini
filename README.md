@@ -1,16 +1,23 @@
-### Hi there 👋
+## About me
 
-<!--
-**tiagogiantini/tiagogiantini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/tiagogiantini)](https://github.com/tiagogiantini)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/almfelipe/)](https://www.linkedin.com/in/silvatiagoo/)
 
-Here are some ideas to get you started:
+I'm Tiago Giantini, a developer and system analyst. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main skills are on Java development and PHP with Laravel. 
+
+Besides my professional skills, I love to play games on PC and I spend a lot of my time playing games with my friends. :sweat_smile:
+
+## My repositories content
+
+![Tiago Giantini GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagogiantini&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagogiantini&layout=compact&theme=radical)
+
+Usually, I create new repositories for store some personal projects or configurations. 
+
+
+If you want to know more about me, follow me on my social medias:
+
+
