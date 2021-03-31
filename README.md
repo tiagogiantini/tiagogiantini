@@ -9,8 +9,3 @@ My main skills are on Java development and PHP with Laravel.
 
 Besides my professional skills, I love to play games on PC and I spend a lot of my time playing games with my friends. :sweat_smile:
 
-## My repositories content
-
-![Tiago Giantini GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagogiantini&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagogiantini&layout=compact&theme=radical)
