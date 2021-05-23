@@ -12,3 +12,4 @@ Besides my professional skills, I love to play games on PC and I spend a lot of 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagogiantini&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagogiantini&layout=compact&count_private=true$langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagogiantini&layout=compact&count_private=true$langs_count=10&theme=dark)
